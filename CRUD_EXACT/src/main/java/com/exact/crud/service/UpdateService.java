@@ -15,4 +15,8 @@ public class UpdateService {
 		logger.info(mensaje);
 		return mensaje;
 	}
+	
+	public void holaMundoExact() {
+		
+	}
 }
