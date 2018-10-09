@@ -16,6 +16,9 @@ public class ReadService implements Serializable {
 		return "Hola mundo";
 	}
 	
+	public String mensajeARonald() {
+		return "Hola RONALD";
+    
 	public String mensaje4() {
 		return "Rama RONALD";
 	}
@@ -25,6 +28,6 @@ public class ReadService implements Serializable {
 	}
 	
 	public String mensaje7() {
-		return "Hola el CE!";
+		return "Hola el CE!";    
 	}
 }
