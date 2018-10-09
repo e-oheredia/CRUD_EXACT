@@ -16,7 +16,9 @@ public class UpdateService {
 		return mensaje;
 	}
 	
+	public void chauMundo() {
+		logger.info("Chau Mundo");
+    
 	public void holaMundoExact() {
-		
 	}
 }
