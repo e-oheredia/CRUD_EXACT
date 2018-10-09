@@ -10,4 +10,7 @@ public class ReadService {
 		return "Mensaje 2";
 	}
 	
+	public String mensaje3() {
+		return "Hola mundo";
+	}
 }
