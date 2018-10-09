@@ -6,4 +6,8 @@ public class ReadService {
 		return "Rama Read";
 	}
 	
+	public String mensaje2() {
+		return "Mensaje 2";
+	}
+	
 }
