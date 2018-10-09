@@ -1,6 +1,8 @@
 package com.exact.crud.service;
 
-public class ReadService {
+import java.io.Serializable;
+
+public class ReadService implements Serializable {
 
 	public String mensaje() {
 		return "Rama Read";
@@ -16,5 +18,16 @@ public class ReadService {
 	
 	public String mensajeARonald() {
 		return "Hola RONALD";
+    
+	public String mensaje4() {
+		return "Rama RONALD";
+	}
+	
+	public String mensaje5() {
+		return "Mensaje sa";
+	}
+	
+	public String mensaje7() {
+		return "Hola el CE!";    
 	}
 }
