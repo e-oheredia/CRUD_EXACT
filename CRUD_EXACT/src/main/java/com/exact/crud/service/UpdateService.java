@@ -16,7 +16,7 @@ public class UpdateService {
 		return mensaje;
 	}
 	
-	public void holaMundo() {
+	public void holaMundoExact() {
 		
 	}
 }
