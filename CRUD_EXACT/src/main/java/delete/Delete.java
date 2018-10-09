@@ -5,7 +5,7 @@ public class Delete {
 	private String nombre;
 	private String apellido;
 	private int edad;
-	
+	private int h;
 	
 	
 	public String getNombre() {
