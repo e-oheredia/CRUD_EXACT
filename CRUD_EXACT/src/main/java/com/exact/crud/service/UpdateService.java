@@ -21,5 +21,6 @@ public class UpdateService {
 	}
     
 	public void holaMundoExact() {
+		logger.info("Hola chicos de exact");
 	}
 }
