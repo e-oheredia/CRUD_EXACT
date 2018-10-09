@@ -18,6 +18,7 @@ public class UpdateService {
 	
 	public void chauMundo() {
 		logger.info("Chau Mundo");
+	}
     
 	public void holaMundoExact() {
 	}

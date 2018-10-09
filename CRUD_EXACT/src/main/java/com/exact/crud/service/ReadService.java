@@ -18,6 +18,7 @@ public class ReadService implements Serializable {
 	
 	public String mensajeARonald() {
 		return "Hola RONALD";
+	}
     
 	public String mensaje4() {
 		return "Rama RONALD";
